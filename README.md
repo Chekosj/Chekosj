@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergio Jara Reynoso
 - 👀 I’m interested in developing websites and app with a focus on the user experience.
-- 🌱 I’m currently learning Natural Language Processing and Theory
+- 🌱 I’m currently learning Natural Language Processing, Theory, and Systems Programming and Machine Organization.
 - 💞️ I’m looking to collaborate on start-ups and any apps that you are working on!
 - 📫 How to reach me: 
       Email: sjarareynoso@college.harvard.edu
